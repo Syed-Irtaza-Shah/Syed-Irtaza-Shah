@@ -1,3 +1,4 @@
+![logo](https://github.com/Syed-Irtaza-Shah/Syed-Irtaza-Shah/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).png)
 <h1 align="center">Hi 👋, I'm Syed Irtaza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
